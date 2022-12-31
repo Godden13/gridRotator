@@ -1,11 +1,11 @@
-.fullBody {
+.fullbody {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 200px;
 }
 
-.buttonBody {
+.buttonbody {
   border-radius: 3px;
   flex-wrap: wrap;
   justify-content: center;
@@ -18,7 +18,7 @@
   width: 100px;
   border: none;
   box-shadow: 1px 1px 1px 1px;
-  background-color: rgb(172, 209, 197);
+  background-color: #acd1c5;
 }
 
 #num5 {
@@ -27,5 +27,5 @@
   width: 100px;
   border: none;
   box-shadow: 1px 1px 1px 1px;
-  background-color: rgb(172, 209, 197);
+  background-color: #acd1c5;
 }
