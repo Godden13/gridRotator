@@ -1,0 +1,31 @@
+.fullbody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.buttonbody {
+  border-radius: 3px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.num {
+  border-radius: 4px;
+  height: 50px;
+  width: 100px;
+  border: none;
+  box-shadow: 1px 1px 1px 1px;
+  background-color: #acd1c5;
+}
+
+#num5 {
+  border-radius: 3px;
+  height: 50px;
+  width: 100px;
+  border: none;
+  box-shadow: 1px 1px 1px 1px;
+  background-color: #acd1c5;
+}
